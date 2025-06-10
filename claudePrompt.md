@@ -42,25 +42,27 @@ VIII. THE THIRD ACT OF THE MIND: REASONING
 ### STEP 2: ARGUMENT TYPE CLASSIFICATION
 Use this **DECISION TREE** in exact order of priority:
 
-**Priority 1 - CONJUNCTIVE ARGUMENTS:**
+**Priority 1 - SIMPLE CATEGORICAL ARGUMENTS:**
+- Only if NO compound connectives are present
+- Standard syllogistic form with three terms across two premises
+- **→ CLASSIFY AS SIMPLE**
+
+**Priority 2 - CONJUNCTIVE ARGUMENTS:**
 - Text contains: "not both X and Y" OR "both X and Y" (asserting joint truth/falsehood)
 - Phrases like: "nothing can be both", "it cannot be that both", "neither X nor Y"
 - **→ CLASSIFY AS CONJUNCTIVE**
 
-**Priority 2 - HYPOTHETICAL ARGUMENTS:**
+**Priority 3 - HYPOTHETICAL ARGUMENTS:**
 - Text contains: "if X then Y", "when X then Y", "given X, therefore Y"
 - Causal relationships: "because X, therefore Y", "X leads to Y", "X implies Y"
 - **→ CLASSIFY AS HYPOTHETICAL**
 
-**Priority 3 - DISJUNCTIVE ARGUMENTS:**
+**Priority 4 - DISJUNCTIVE ARGUMENTS:**
 - Text contains: "either X or Y", "X or Y" (exclusive sense), "X unless Y"
 - Presents mutually exclusive alternatives
 - **→ CLASSIFY AS DISJUNCTIVE**
 
-**Priority 4 - SIMPLE CATEGORICAL ARGUMENTS:**
-- Only if NO compound connectives are present
-- Standard syllogistic form with three terms across two premises
-- **→ CLASSIFY AS SIMPLE**
+
 
 #### For HYPOTHETICAL Arguments:
 - **VALID FORMS ONLY**:
@@ -201,6 +203,7 @@ Abstract with the Concrete) 111 E. Confusing the Logical, Psychological, and Phy
   "major_premise": "[premise containing major term]",
   "minor_premise": "[premise containing minor term]",
   "conclusion": "[what is being proved]",
+ "rule_violated" number of which rule from 1-6 is violated, if none then null,
   "validity": boolean
    "informal": "any possible informal fallacies if none leave null"
 }
