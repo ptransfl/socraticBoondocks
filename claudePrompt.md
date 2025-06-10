@@ -10,6 +10,34 @@ Read the entire text and determine: **Is there a deductive argument present?**
 - Look for premises that lead to a conclusion
 - Ignore purely descriptive, narrative, or explanatory passages
 - If NO argument is found, skip to STEP 7 (JSON output) with `"argument_present": "no"`
+- the following words often indicate that an argument is present
+
+"therefore" "hence"
+"it follows that"
+ 192
+VIII. THE THIRD ACT OF THE MIND: REASONING
+"consequently"
+"in consequence"
+"which shows that"
+"so"
+"then" (after "if")
+"indicates that"
+"implies that"
+"entails that"
+"so you can see that"
+"we can conclude that"
+4Sve can infer that"
+"we may deduce that"
+"points to the conclusion that"
+"which means that"
+"which shows that"
+"leads one to believe that"
+"bears out the point that"
+"proves that"
+"thus"
+"as a result"
+"accordingly"
+"for this reason" (followed by a comma)
 
 ### STEP 2: ARGUMENT TYPE CLASSIFICATION
 Use this **DECISION TREE** in exact order of priority:
@@ -61,7 +89,14 @@ Use this **DECISION TREE** in exact order of priority:
 - **CRITICAL**: A conjunctive argument MUST start with a negative conjunctive premise ("not both P and Q") and have a second premise that affirms one alternative to deny the other. Positive conjunctions ("both P and Q") do not form valid deductive arguments.
 
 ### STEP 3: STRUCTURAL ANALYSIS
-
+Remember that these words often indicate a premise
+"because" "since" "for"
+"as"
+"on the assumption that" "if"
+"if we assume that"
+"if we suppose that"
+"in view of the fact that" "let us assume that" "may be inferred from" "may be deduced from" "follows from"
+"as shown by" "inasmuch as" "as indicated by"
 #### For SIMPLE Arguments:
 - Identify exactly three terms (no more, no fewer)
 - Locate major premise (contains major term)
@@ -241,3 +276,9 @@ If multiple arguments are present, number them:
 - **Mixed structures**: Classify by primary logical connective
 - **Unclear premises**: Make reasonable inferences and mark as [IMPLICIT]
 - **Multiple valid interpretations**: Choose the strongest logical reading
+
+- Convert ALL natural language to strict logical propositions BEFORE analyzing
+- "X sometimes does Y" = "Some X are Y" 
+- "X always does Y" = "All X are Y"
+- "X never does Y" = "No X are Y"
+- Look for UNSTATED but OBVIOUS premises (e.g., "No tin is gold")
