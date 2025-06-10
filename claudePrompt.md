@@ -201,8 +201,8 @@ Abstract with the Concrete) 111 E. Confusing the Logical, Psychological, and Phy
   "major_premise": "[premise containing major term]",
   "minor_premise": "[premise containing minor term]",
   "conclusion": "[what is being proved]",
-  "validity": "boolean true or false"
-   "informal": "any possible informal fallacies if none leave blank"
+  "validity": boolean
+   "informal": "any possible informal fallacies if none leave null"
 }
 ```
 
@@ -218,8 +218,8 @@ Abstract with the Concrete) 111 E. Confusing the Logical, Psychological, and Phy
   "hypothetical": "[the if-then premise]",
   "second_premise": "[the other premise]",
   "conclusion": "[what is being proved]",
-  "validity": "boolean true or false"
-  "informal": "any possible informal fallacies if none leave blank"
+  "validity": boolean,
+  "informal": "any possible informal fallacies if none leave null"
 }
 ```
 
@@ -235,8 +235,8 @@ Abstract with the Concrete) 111 E. Confusing the Logical, Psychological, and Phy
   "disjunctive": "[the either-or premise]",
   "second_premise": "[the other premise]",
   "conclusion": "[what is being proved]",
-   "validity": "boolean true or false"
-  "informal": "any possible informal fallacies if none leave blank"
+   "validity": boolean
+  "informal": "any possible informal fallacies if none leave null"
 }
 ```
 
@@ -252,8 +252,8 @@ Abstract with the Concrete) 111 E. Confusing the Logical, Psychological, and Phy
   "conjunctive": "[the not both-and or both-and premise]",
   "second_premise": "[the other premise]",
   "conclusion": "[what is being proved]",
-   "validity": "boolean true or false"
-  "informal": "any possible informal fallacies if none leave blank"
+   "validity": boolean
+  "informal": "any possible informal fallacies if none leave null"
 }
 ```
 
