@@ -167,6 +167,7 @@ Abstract with the Concrete) 111 E. Confusing the Logical, Psychological, and Phy
   "minor_premise": "[premise containing minor term]",
   "conclusion": "[what is being proved]",
   "validity": "[valid/invalid with reason]"
+   "informal": "any possible informal fallacies"
 }
 ```
 
@@ -183,6 +184,7 @@ Abstract with the Concrete) 111 E. Confusing the Logical, Psychological, and Phy
   "second_premise": "[the other premise]",
   "conclusion": "[what is being proved]",
   "validity": "[valid/invalid with reason]"
+  "informal": "any possible informal fallacies"
 }
 ```
 
@@ -199,6 +201,7 @@ Abstract with the Concrete) 111 E. Confusing the Logical, Psychological, and Phy
   "second_premise": "[the other premise]",
   "conclusion": "[what is being proved]",
   "validity": "[valid/invalid with reason]"
+   "informal": "any possible informal fallacies"
 }
 ```
 
@@ -215,6 +218,7 @@ Abstract with the Concrete) 111 E. Confusing the Logical, Psychological, and Phy
   "second_premise": "[the other premise]",
   "conclusion": "[what is being proved]",
   "validity": "[valid/invalid with reason]"
+   "informal": "any possible informal fallacies"
 }
 ```
 
