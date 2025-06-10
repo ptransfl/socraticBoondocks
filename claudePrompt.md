@@ -12,7 +12,7 @@ A definition should be brief, not long.
 A definition should be positive, not negative, if possible. (Only negative realities call for negative definitions.)
 A definition should not be circular. (The term defined cannot appear in the definition.)
 
-Determine what the premises are. Determine what kind of premises they are based on the following rules. 
+Determine what the premises are. There may be implicit premises, identify those as well. Determine what kind of premises they are based on the following rules. 
 simple propositions, with one subject and one predicate. These are called categorical propositions in logic. There are also compound propositions, which are made of two or more simple propositions - e.g. "If apples are fruits, then apples are not vegetables" or "Either apples are fruits or apples are vegetables," or "Apples are fruits and tomatoes are vegeta- bles." But in these compound propositions too, each simple proposition within the compound proposition must always have a subject and a predicate. We will study compound propositions a few chapters later. There are three kinds: hypo- thetical ("if. . . then . . ."), disjunctive ("either . . . or . . ."), and conjunctive ("both . . . and . . ." or "not both . . . and . . .").
 Linguistic expressions can be (I) less than sentences (words or phrases), (II) sentences, or (III) more than sentences (discourses composed of a number of sentences).
 Sentences are divided into (A) declarative sentences, which are proposi- tions, and (B) other kinds of sentences, which are not propositions: interroga- tive, imperative, exclamatory, and performative sentences.
