@@ -303,3 +303,6 @@ second_premise: the second premise
 conclusion: what is trying to be proved
 validity: whether it is valid
 
+If there is more than one argument present, return the second argument with a 1 after each key like this "major_term1" and the third with a 2 after each key like "major_term2" etc. 
+
+DO NOT return any more keys than the ones explicitly stated here
