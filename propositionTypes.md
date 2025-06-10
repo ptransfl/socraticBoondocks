@@ -9,3 +9,8 @@ I: particular affirmative propositions (e.g. "Some men are mortal") O: particula
 The four logical forms of categorical propositions are called A, E, I, and O for short. This tradition comes from medieval Latin: A and I are the first two vowels in the Latin word afprmoy which means "I affirm." An A proposition is universal and affirmative (all S is P) and an I proposition is particular and affir- mative (some S is P). E and O arc the first two vowels in the Latin word nego, which means "I deny." An E proposition is universal and negative (no S is P), and an O proposition is particular and negative (some S is not P).
 
 The predicate of an affirmative proposition is always undistributed; the predicate of a negative proposition is always distributed. That is the simple, universal rule.
+
+
+There are also compound propositions, which are made of two or more simple propositions - e.g. "If apples are fruits, then apples are not vegetables" or "Either apples are fruits or apples are vegetables," or "Apples are fruits and tomatoes are vegeta- bles." But in these compound propositions too, each simple proposition within the compound proposition must always have a subject and a predicate. We will study compound propositions a few chapters later. There are three kinds: hypo- thetical ("if. . . then . . ."), disjunctive ("either . . . or . . ."), and conjunctive ("both . . . and . . ." or "not both . . . and . . .").
+
+These propositions are used in compound syllogisms of the same names.
