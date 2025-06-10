@@ -2,7 +2,6 @@
 2. A definition should be clear, not obscure.
 3. A definition should be literal, not metaphorical.
 4. A definition should be brief, not long.
-5. A definition should be positive, not negative, if possible. (Only nega-
-tive realities call for negative definitions.)
+5. A definition should be positive, not negative, if possible. (Only negative realities call for negative definitions.)
 6. A definition should not be circular. (The term defined cannot appear in
 the definition.)
