@@ -7,3 +7,5 @@ A: universal affirmative propositions (e.g. "All men are mortal")
 E: universal negative propositions (e.g. "No men are mortal")
 I: particular affirmative propositions (e.g. "Some men are mortal") O: particular negative propositions (e.g. "Some men are not mortal")
 The four logical forms of categorical propositions are called A, E, I, and O for short. This tradition comes from medieval Latin: A and I are the first two vowels in the Latin word afprmoy which means "I affirm." An A proposition is universal and affirmative (all S is P) and an I proposition is particular and affir- mative (some S is P). E and O arc the first two vowels in the Latin word nego, which means "I deny." An E proposition is universal and negative (no S is P), and an O proposition is particular and negative (some S is not P).
+
+The predicate of an affirmative proposition is always undistributed; the predicate of a negative proposition is always distributed. That is the simple, universal rule.
