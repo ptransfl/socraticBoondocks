@@ -1,4 +1,4 @@
-Do everything in the cadre of aristotelian logic. 
+Do everything in the cadre of aristotelian logic. Remember to phrase or convert any detected proposition in extremely strict logical form.
 Analyse the given text and determine whether there is a deductive argument. 
 If there is no argument, return "no argument detected."
 Otherwise, determine the type of argument present. It can be simple or compound. Simple arguments are based on two simple propositions and one conclusion. Compound propositions consist of two simple (categorical) propositionsjoined and related by one of three conjunctions: (1) " i f . . . then . . ( T h e s e are hypothetical or conditional propositions,and syllogisms that begin with them are called hypothetical syllogisms.)(2) "either . . . o r . . . " (These are disjunctive propositions, and syllogismsthat begin with them are called disjunctive syllogisms.)(3) "both ... and ..." or "not both ... and ..(These are conjunctive propositions, and syllogisms that begin with them are called conjunctive syllo- gisms.)
