@@ -175,7 +175,7 @@ Abstract with the Concrete) 111 E. Confusing the Logical, Psychological, and Phy
 ```json
 {
   "argument_present": "yes",
-  "argument_type": "compound",
+  "argument_type": "hypothetical",
   "antecedent": "[the 'if' part]",
   "consequent": "[the 'then' part]",
   "def_ant": "[definition of antecedent]",
@@ -192,7 +192,7 @@ Abstract with the Concrete) 111 E. Confusing the Logical, Psychological, and Phy
 ```json
 {
   "argument_present": "yes",
-  "argument_type": "compound",
+  "argument_type": "disjunctive",
   "first_term": "[the 'either' part]",
   "second_term": "[the 'or' part]",
   "def_first": "[definition of first term]",
@@ -209,7 +209,7 @@ Abstract with the Concrete) 111 E. Confusing the Logical, Psychological, and Phy
 ```json
 {
   "argument_present": "yes",
-  "argument_type": "compound",
+  "argument_type": "conjunctive",
   "first_term": "[first term in conjunction]",
   "second_term": "[second term in conjunction]",
   "def_first": "[definition of first term]",
