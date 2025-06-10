@@ -34,6 +34,32 @@ Use this **DECISION TREE** in exact order of priority:
 - Standard syllogistic form with three terms across two premises
 - **→ CLASSIFY AS SIMPLE**
 
+#### For HYPOTHETICAL Arguments:
+- **VALID FORMS ONLY**:
+  - **Affirming the Antecedent (Modus Ponens)**: If P then Q; P is true; Therefore Q
+  - **Denying the Consequent (Modus Tollens)**: If P then Q; Q is false; Therefore P is false
+- **INVALID FORMS**:
+  - **Affirming the Consequent**: If P then Q; Q is true; Therefore P (INVALID)
+  - **Denying the Antecedent**: If P then Q; P is false; Therefore Q is false (INVALID)
+- **CRITICAL**: A hypothetical argument MUST have a second premise that either affirms the antecedent OR denies the consequent. Without this second premise, there is NO deductive argument present.
+
+#### For DISJUNCTIVE Arguments:
+- **VALID FORMS ONLY**:
+  - **Denying One Alternative**: Either P or Q; Not P; Therefore Q
+  - **Denying One Alternative**: Either P or Q; Not Q; Therefore P
+- **INVALID FORMS**:
+  - **Affirming One Alternative**: Either P or Q; P is true; Therefore not Q (INVALID - unless exclusive disjunction is clearly stated)
+- **CRITICAL**: A disjunctive argument MUST have a second premise that denies one of the alternatives. Without this negative second premise, there is NO deductive argument present.
+
+#### For CONJUNCTIVE Arguments:
+- **VALID FORMS ONLY**:
+  - **Denying the Conjunction**: Not both P and Q; P is true; Therefore not Q
+  - **Denying the Conjunction**: Not both P and Q; Q is true; Therefore not P
+- **INVALID FORMS**:
+  - **Affirming from Conjunction**: Both P and Q; Therefore P (INVALID - this is not deductive reasoning)
+  - **Affirming the Conjunction**: Not both P and Q; Not P; Therefore Q (INVALID)
+- **CRITICAL**: A conjunctive argument MUST start with a negative conjunctive premise ("not both P and Q") and have a second premise that affirms one alternative to deny the other. Positive conjunctions ("both P and Q") do not form valid deductive arguments.
+
 ### STEP 3: STRUCTURAL ANALYSIS
 
 #### For SIMPLE Arguments:
@@ -82,12 +108,38 @@ Define each key term using these rules:
 
 ### STEP 6: FALLACY DETECTION
 Check for these common informal fallacies in premises:
-- **Equivocation**: Same word used with different meanings
-- **Ad Hominem**: Attacking person instead of argument
-- **False Dilemma**: Presenting only two options when more exist
-- **Begging the Question**: Using conclusion as premise
-- **Hasty Generalization**: Insufficient evidence for broad claim
-- **Post Hoc**: Confusing correlation with causation
+1. Fallacies of language
+A. Equivocation 71 B. Amphiboly 74 C. Accent 75 D. Slanting 76 E. Slogans 78 F. Hyperbole 78 G. "Straw Man" 79
+2. Fallacies of Diversion
+A. Ad hominem (The Appeal to the Person), including 80
+"Poisoning the Well,"
+Tu quoque ("You Too"), and
+"The Genetic Fallacy"
+B. Ad verecundiam (The Appeal to [Illegitimate] Authority) 82 C. Ad baculum (The Appeal to Force) 83 D. Ad misericordiam (The Appeal to Pity) 84 E. Ad ignominiam (The Appeal to Shame) 84 F. Adpopulum (The Appeal to the Masses), including 85
+Flattery (or "The Appeal to the Gallery"), Identification ("I'm one of you!"), "Everybody Docs It,"
+"The Polls Say,"
+The Appeal to Prejudice, "Snob Appeal," and
+"The Big Lie"
+86
+G. Ad ignorantiam (The Appeal to Ignorance)
+ 70
+lit. MATERIAL FALLACIES
+3. Fallacies of Oversimplification
+A. Die to simp liciter 86 B. "Special Case" 87 C. Composition 87 D. Division 88 E. "The Black-and-White Fallacy" 89 F. Quoting out of Context 90 G. Stereotyping 91
+4. Fallacies of Argumentation
+A. Non sequitur ("It Does Not Follow") 92 B. Ignoratio Elenchi (Irrelevant Conclusion, or "Ignorance
+of the Chain" connecting premises and conclusion) 94 C. Petitio principii ("Begging the Question") 94 D. "Complex Question" 95 E. Arguing in a Circle 95 F. Contradictory Premises 97 G. False Assumption 99
+5. Fallacies of Induction
+A. Hasty Generalization 100 B. Post hoc, ergo propter hoc ("After this, therefore caused by this") 100 C. Hypothesis Contrary to Fact 101 D. False Analogy 102 E. Argument from Silence 103 F. Selective Evidence 103 G. Slanting the Question 104
+6. Procedural Fallacies
+A. "Refuting" an Argument by Refuting its Conclusion 104 B. Assuming that Refuting an Argument Disproves Its
+Conclusion 105 C. Ignoring an Argument 106 D. Substituting Explanations for Proof 106 E. Answering Another Argument than the One Given 107 F. Shifting the Burden of Proof 108 G. W inning the Argument but Losing the Arguer, or Vice Versa 108
+7. Metaphysical Fallacies
+A. Reductionism or "Nothing Buttery" (especially, Confusing
+Form with Matter) 109 B. The Fallacy of Accident (Confusing the Accidental
+with the Essential) 110 C. Confusing Quantity with Quality
+D. The Fallacy of Misplaced Concreteness (Confusing the
+Abstract with the Concrete) 111 E. Confusing the Logical, Psychological, and Physical "Because" 112 F. The Existential Fallacy (Confusing Essencc and Existence) 112 G. Confusing the Natural with the Common 113
 
 ### STEP 7: JSON OUTPUT
 
