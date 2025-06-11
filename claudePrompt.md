@@ -203,11 +203,12 @@ Abstract with the Concrete) 111 E. Confusing the Logical, Psychological, and Phy
   "major_premise": "[premise containing major term]",
   "minor_premise": "[premise containing minor term]",
   "conclusion": "[what is being proved]",
- "rules_violated" array of numbers of which rules from 1-6 is violated, if none then null,
-  "validity": boolean
+ "rules_violated": [],
+  "validity": boolean,
    "informal": "any possible informal fallacies if none leave null"
 }
 ```
+for rules violated list numerically in the array which rules have been
 
 ### If HYPOTHETICAL Argument Present:
 ```json
